@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap-projects",
+  "version": "1.0.0",
+  "description": "This is the Bootstrap Folder for Projects done using Bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NairaMescudi/Bootstrap-Projects.git"
+  },
+  "author": "TyNaira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NairaMescudi/Bootstrap-Projects/issues"
+  },
+  "homepage": "https://github.com/NairaMescudi/Bootstrap-Projects#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
