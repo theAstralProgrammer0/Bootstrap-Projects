@@ -1,0 +1,46 @@
+.jumbotron{
+    margin: 0 auto;
+    padding: 4rem 0 4rem 0;
+    background-color: #b4a607;
+    color: floralwhite;
+}
+
+.row{
+    margin: 0 auto;
+    padding: 2rem 0 2rem 0;
+}
+
+.jumbo-row{
+    border-bottom: none;
+}
+.address{
+    font-size: 0.8rem;
+}
+.socials{
+    justify-content: space-evenly;
+}
+.socials a{
+    text-align: center;
+    text-decoration: unset;
+}
+
+.footer{
+    background: #413f0e;
+    color: #090905;
+}
+
+.copy-right{
+    padding: 0 auto;
+}
+
+.footer-row{
+    padding-bottom: 0;
+}
+
+body{
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+
+.list-unstyled li a{
+    text-decoration: unset;
+}
